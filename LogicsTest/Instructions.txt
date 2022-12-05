@@ -1,0 +1,32 @@
+Nas primeiras quatro questões, você poderá usar QUALQUER LINGUAGEM.
+Nas demais, deverão ser usadas as linguagens descritas na questão. Mas não se preocupe, 
+não é obrigatório responder a todas as questões, pois o objetivo é entender qual seu nível de 
+conhecimento com desenvolvimento e escrita de código de programação.
+
+Entraremos em contato após a avaliação do seu resultado, tanto para dar o feedback quanto para dar continuidade do processo seletivo.
+
+Boa sorte!
+
+Questões:
+
+1) Faça uma função que receba um array composto de [ 1, 2, 3, 4, 5, 6, 6 ], você deverá retornar o segundo maior número deste array.
+
+2) Faça uma função que receba uma string, você deverá retornar esta string ao contrário.
+    
+3) Faça uma função que retorne apenas as vogais de uma palavra.
+    
+4) Faça uma função que receba uma data no formato MM/DD/YYYY, exemplo: 03/01/2002. Você deverá informar a qual dia da semana essa data se refere.
+       
+5) Construa uma página utilizando HTML e CSS de uma revendedora de carros. Ela deve conter Navbar, Footer e alguns Cards contendo a imagem do carro, nome e preço. Não se preocupe com design, o importante aqui é sabermos sobre os seus conhecimentos em HTML e CSS.
+
+6)Escreva um programa EM JAVA que lê três números reais, calcule e apresente a soma e a média dos números informados com 2 casas depois da vírgula.
+
+7) Crie um programa EM JAVA que leia um número real, calcule e exiba na tela os valores correspondentes a 5%, 50% e 150% do valor informado com 1, 2 e 3 casas decimais.
+
+8) Faça um programa, usando SWITCH, que receba dois números e execute as operações listadas a seguir, de acordo com a escolha.
+Operações com SWITCH:
+a) Operação 1: A soma de dois números
+b) Operação 2: A subtração de dois números
+c) Operação 3: A multiplicação de dois números
+d) Operação 4: A divisão de dois números
+Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
