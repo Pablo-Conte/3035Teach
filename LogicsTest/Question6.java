@@ -23,5 +23,7 @@ public class Question6 {
         System.out.printf("%f + %f + %f = %.2f \n", n1, n2, n3, soma);
         System.out.printf("A média entre esses 3 numeros é: %.2f\n", media);
 
+        monitor.close();
+
     }
 }
