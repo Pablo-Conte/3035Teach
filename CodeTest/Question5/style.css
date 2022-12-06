@@ -1,0 +1,146 @@
+@charset "UTF-8";
+@font-face {
+    font-family: pacifico;
+    src: url('fonts/Pacifico-Regular.ttf');
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+    background-color: #540909;
+}
+
+header {
+    text-align: center;
+    background-color: #060606;
+    margin: 0px;
+    color: white;
+    padding: 15px;
+    border: 5px solid #8E0407;
+    border-right: none;
+    border-left: none;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.308);
+}
+
+nav {
+    text-align: left;
+}
+
+nav > a {
+    margin-right: 10px;
+    color: white;
+    border: 1px solid #8E0407;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav > a:hover {
+    background-color: #AC0508;
+}
+
+footer {
+    text-align: center;
+    background-color: #060606;
+    color: white;
+    border: 5px solid #8E0407;
+    border-right: none;
+    border-left: none;
+    padding: 15px;
+    margin: 0px;
+}
+
+footer > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    margin: 0px;
+}
+
+header > h1 {
+    margin: 0px;
+    font-family: pacifico;
+    font-weight: 500;
+    font-size: 4em;
+}
+
+header > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #be0508;
+}
+
+main {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #220002;
+    padding: 10px;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.548);
+    border: 5px solid #8E0407;
+    border-top: none;
+    display: flex;
+    border-bottom: none;
+}
+
+#carros > h1 {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 200px;
+}
+
+.produtos > p {
+    color: white;
+}
+
+#carros > article {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 50px;
+}
+
+.descricao {
+    display: flex;
+    color: white;
+    align-items: flex-start;
+    justify-content:space-between;
+    background-color: #540909;
+    padding: 5px;
+    margin: 0px;
+}
+
+.preco {
+    justify-content: flex-end;
+    background-color: #BE0103;
+    padding: 2px;
+    border: 2px solid #540909;
+    border-radius: 5px;
+}
+
+.produtos {
+    border: 2px solid #540909;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;;
+}
+
+.produtos:hover {
+    background-color: #630607;
+}
+
